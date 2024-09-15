@@ -1,7 +1,7 @@
 css
 /* styles.css */
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, sans-serif;
     background-color: #8ebd0f;
     text-underline-offset: #000000; ;
     margin: 0;
@@ -9,11 +9,13 @@ body {
 }
 
 .container {
-    width: 80%;
+    width: 50%;
     margin: auto;
     padding: 20px;
-    background-color: rgb(226, 131, 7);
+    background-color: rgb(236, 206, 107);
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    text-decoration-thickness: 30%;
 }
 
 header {
